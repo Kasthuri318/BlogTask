@@ -1,0 +1,95 @@
+header{
+    background-color: teal;
+    text-align: center;
+    width: 100%;
+    height:40%;
+    padding-top: 3px; 
+    color: ghostwhite;
+}
+
+*{
+    margin: 0px;
+}
+
+nav{
+    background-color: rgb(201, 250, 201);
+    width: 100%;
+    height: 40px;
+    padding-top: 22px;
+    color: rgb(244, 101, 101);
+    font-size: large;
+    margin-bottom: 5px;
+    
+}
+nav:hover{
+    color: rgb(213, 118, 194);
+    font-size: x-large;
+}
+
+.sec{
+    background-color: darkgray;
+    width:60%;
+    height: 500px;
+    font-size: large;
+    padding-top: 10px;
+    float:left;
+    margin-right: 5px;
+}
+article{
+    background-color: rgb(85, 164, 164);
+    width: 38%;
+    height: 150px;
+    margin: 5px;
+    float: right;
+    text-align: center;
+    color: lavenderblush;
+    padding-top: 30px;
+    
+}
+
+aside{
+    height: 245px;
+}
+
+h3{
+    text-align: center;
+}
+
+section{
+    width: 100%;
+    height:150px;
+    float: left;
+    margin-top: 5px;
+    background-color: rgb(197, 118, 239);
+    padding-top: 10px;
+    font-size: large;
+    
+}
+
+.details{
+    padding-left: 250px;
+}
+
+details{
+    padding-left: 25px;
+}
+
+footer{
+    width: 96%;
+    height: 200px;
+    float: left;
+    background-color: olivedrab;
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-left: 60px;
+}
+
+p{
+    padding-left: 70px;
+    color: antiquewhite;
+}
+
+h4{
+    font-size: large;
+
+}
